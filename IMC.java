@@ -1,20 +1,10 @@
-  
-/**
- * Write a description of class IMC here.
- *
- * @author (your name)
- * @version (a version number or a date)
- */
 
 /**
- * Write a description of class IMC here.
- *
- * @author (your name)
- * @version (a version number or a date)
+ * Escreva a descrição da classe IMC aqui.
+ * 
+ * @author (Simshon Horie) 
+ * @version (número de versão ou data)
  */
-  
-
-
 public class IMC
 {
     public static void main(String[] args){
@@ -64,4 +54,6 @@ public class IMC
             System.out.println("Seu IMC é: " + imc);
     }
 }
+
+
 
